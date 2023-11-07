@@ -2,11 +2,11 @@
 #更新时间2023-11-07
 #======================================#
 
-#> 剧狗
+# > 剧狗
 DOMAIN-SUFFIX,ju.dog
 IP-CIDR,202.61.255.248/32,no-resolve
 
-#> TreeDiagram
+# > TreeDiagram
 DOMAIN-SUFFIX,123456.al
 
 # > emby-jmsooo
