@@ -1,0 +1,56 @@
+#======================================#
+#更新时间2023-11-07
+#https://t.me/ddgksf2021
+#======================================#
+
+> 剧狗
+DOMAIN-SUFFIX,ju.dog
+IP-CIDR,202.61.255.248/32,no-resolve
+
+> TreeDiagram
+DOMAIN-SUFFIX,123456.al
+
+> emby-jmsooo
+DOMAIN,agahk1.jmsooo.com
+DOMAIN,agasg1.jmsooo.com
+DOMAIN,agajp1.jmsooo.com
+DOMAIN,aws.jmsooo.com
+DOMAIN,ntt1.jmsooo.com
+DOMAIN,hinet.jmsooo.com
+DOMAIN,cf1.jmsooo.com
+
+> 卷毛鼠
+DOMAIN,jmsooo.com
+DOMAIN,cf.jmsooo.com
+DOMAIN,hk.jmsooo.com
+DOMAIN,sg.jmsooo.com
+
+> 终点站
+DOMAIN,emby.wtf
+DOMAIN,pub1back.emby.wtf
+DOMAIN,pub2back.emby.wtf
+DOMAIN,pub3back.emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+
+> 卡戎
+DOMAIN,play.charontv.com
+
+> MisakaF
+DOMAIN-SUFFIX,misakaf.org
+
+> 垃圾影音
+DOMAIN-SUFFIX,cf.xmsl.org
+
+> CC
+DOMAIN,cc.ccemby.tk
+
+> MJJ
+DOMAIN-SUFFIX,de.mjjemby.org
+
+> 桃子
+DOMAIN-SUFFIX,embymv.tk
+
+> 二次元
+DOMAIN-SUFFIX,media.nijigem.by
