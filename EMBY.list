@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,cf.xmsl.org
 
 #> CC
-DOMAIN,cc.ccemby.tk
+DOMAIN-SUFFIX,cc.ccemby.tk
 
 # > MJJ
 DOMAIN-SUFFIX,de.mjjemby.org
